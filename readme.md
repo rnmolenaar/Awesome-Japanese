@@ -193,7 +193,7 @@ _Alphabet of Japanese language._
 ## Listening
 
 - [SuperNative](https://supernative.tv/) - Trains you to hear, read, and speak Japanese using over 10,000 bite-sized clips from TV and movies. :warning: Only Chrome browser supports voice recognition practice.
-- [Delvin](http://delvinlanguage.com) - Practice Japanese listening and reading with authentic Japanese video.
+- [Delvin](http://delvinlanguage.com) - Practice Japanese listening and reading with authentic Japanese videos.
 - [mykikitori](http://mykikitori.com/index.html) - Practice your Japanese learning skill.
 - Podcast
   - [Podcast Ranking](https://podcastranking.jp/) - Japanese Podcast ranking website, discover Japanese language podcasts.
